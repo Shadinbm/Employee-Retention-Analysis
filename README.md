@@ -113,13 +113,4 @@ This logistic regression model gives HR teams insight into which factors are mos
 
 ```
 
----
-
-Let me know if you'd like:
-- A `.gitignore` file
-- Badge icons (e.g., `Python`, `License`, etc.)
-- Streamlit version to make it interactive
-
-I'm happy to help you polish the repo even more!
-```
 
