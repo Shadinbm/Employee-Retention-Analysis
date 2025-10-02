@@ -1,13 +1,4 @@
-Here’s a clean, professional, and **complete `README.md`** file based on your project, including:
 
-* Description
-* Dataset info
-* Objectives
-* Tools used
-* Code snippets
-* Instructions for running
-
-You can copy-paste this directly into your `README.md` file on GitHub:
 
 ---
 
